@@ -24,10 +24,10 @@
           "name": "Algorithm 4",
           "description": "Description of Algorithm 4"
         }
-        // Add more algorithms for this category if needed
+       
       ]
     }
-    // Add more categories as needed
+    
   ],
   "info": {
     "seed": "56d27f4a53bd5441",
