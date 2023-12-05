@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "category": "Brute Force Algorithm",
+      "algorithms": [
+        {
+          "name": "Algorithm 1",
+          "description": "Description of Algorithm 1"
+        },
+        {
+          "name": "Algorithm 2",
+          "description": "Description of Algorithm 2"
+        }
+      ]
+    },
+    {
+      "category": "Recursive Algorithm",
+      "algorithms": [
+        {
+          "name": "Algorithm 3",
+          "description": "Description of Algorithm 3"
+        },
+        {
+          "name": "Algorithm 4",
+          "description": "Description of Algorithm 4"
+        }
+       
+      ]
+    }
+    
+  ],
+  "info": {
+    "seed": "56d27f4a53bd5441",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
